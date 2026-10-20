@@ -19,21 +19,25 @@ header{
     align-items:center;
 }
 
-h1, h2, h3, h4, h5, h6, p, figcaption, ul, li, a{
+h1, h2, h3, h4, h5, h6, p, ul, li, a{
     margin:5px;
 }
+
 table{
     width: 80%;
     border-collapse: collapse;
     background-color: #f5fafb;
 }
+
  caption{
     color: #155a75;
  }
+
 th{
     background-color: #6DD5D5;
     color: white;
 }
+
 td{
     border: 1px solid #333;
 }
