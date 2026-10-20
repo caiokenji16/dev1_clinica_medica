@@ -63,3 +63,26 @@ footer {
     align-items:center;
     justify-content:center;
 }
+
+table{
+    width: 80%;
+    border-collapse: collapse;
+    background-color: #f5fafb;
+}
+
+caption{
+    color: #155a75;
+}
+
+th{
+    background-color: #6DD5D5;
+    color: white;
+}
+
+td{
+    border: 1px solid #333;
+}
+
+tfoot{
+    background-color: white;
+}
